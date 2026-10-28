@@ -1,0 +1,6 @@
+debug = true
+secret = "ee6a51198e4b78572367dc481c3be3c4547777772e6d6963726f736f66742e636f6d"
+bind-to = "0.0.0.0:443"
+
+[defense.blocklist]
+enabled = false
